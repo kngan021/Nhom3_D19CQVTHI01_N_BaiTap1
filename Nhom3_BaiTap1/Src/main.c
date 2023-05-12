@@ -203,6 +203,11 @@ static void ABL_Process(void)
 
 
 		LedControl_TimerOCSetPwm(Kanman_light);
+		ucg_SetFont(&ucg, ucg_font_ncenR12_hr);
+		ucg_SetColor(&ucg, 0, 255, 255, 255);
+		ucg_DrawString(&ucg, 30, 12, 0, "Nhom 3");
+		ucg_DrawString(&ucg, 17, 30, 0, "D19CQVTHI");
+
 		memset(src3, 0, sizeof(src3));
 		sprintf(src3, " Light = %d lux  ", Kanman_light);
 		ucg_DrawString(&ucg, 0, 72, 0, src3);
