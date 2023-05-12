@@ -1,0 +1,8 @@
+../Src/main.c:41:5:main	8	static
+../Src/main.c:53:13:AppInitCommon	16	static
+../Src/main.c:70:13:LightSensor_AdcInit	56	static
+../Src/main.c:112:13:LedControl_TimerOCInit	48	static
+../Src/main.c:155:10:LightSensor_AdcPollingRead	16	static
+../Src/main.c:169:10:Kanman_Light	16	static
+../Src/main.c:177:13:LedControl_TimerOCSetPwm	16	static
+../Src/main.c:182:13:ABL_Process	24	static

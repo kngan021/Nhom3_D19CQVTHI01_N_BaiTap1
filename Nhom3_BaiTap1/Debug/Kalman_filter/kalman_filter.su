@@ -1,0 +1,7 @@
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:38:6:KalmanFilterInit	24	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:45:7:KalmanFilter_updateEstimate	32	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:55:6:KalmanFilter_setMeasurementError	16	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:60:6:KalmanFilter_setEstimateError	16	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:65:6:KalmanFilter_setProcessNoise	16	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:70:7:KalmanFilter_getKalmanGain	4	static
+C:/Users/nganr/STM32CubeIDE/workspace_1.11.2/Nhom3_BaiTap1/Kalman_filter/kalman_filter.c:74:7:KalmanFilter_getEstimateError	4	static
